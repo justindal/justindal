@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My name is Justin and I'm a Computer Science student at Carleton University!
-- I have experience in languages like Python, Java, C/C++, and SQL
+- I have experience in Python, Java, C/C++, JS/TS, and SQL/MongoDB
 - check out my portfolio website: https://justindaludado.live/
 - currently working on **https://don't-secure.me**, a password-less text-based social media app written with Next.js and MongoDB
 <!--
