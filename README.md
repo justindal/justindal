@@ -2,7 +2,6 @@
 - My name is Justin and I'm a Computer Science student at Carleton University!
 - I have experience in Python, Java, C/C++, JS/TS, and SQL/MongoDB
 - check out my portfolio website: https://justindaludado.live/
-- currently working on **https://dont-secure.me**, a password-less text-based social media app written with Next.js and MongoDB, and its iOS app written in Swift!
 <!--
 **justindal/justindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
