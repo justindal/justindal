@@ -1,7 +1,7 @@
 ## Hi there 👋
 - My name is Justin and I'm a Computer Science student at Carleton University!
 - I have experience in Python, Java, C/C++, JS/TS, and SQL/MongoDB
-- check out my portfolio website: https://justindaludado.live/
+- check out my portfolio website: https://justindaludado.com/
 <!--
 **justindal/justindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
